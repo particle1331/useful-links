@@ -13,3 +13,7 @@ Useful stuff on the web for machine learning developers.
 
 ### Blogs
 - [CMU ML Blog](https://blog.ml.cmu.edu)
+
+
+### Kaggle solution
+- [Kaggle Mercari Price Suggestion Challenge (1 place) — Pawel Jankiewicz, Konstantin Lopuhin](https://www.youtube.com/watch?v=QFR0IHbzA30)
